@@ -1,5 +1,5 @@
 package sbtfromconsole
 
 object MainObj extends App {
-    println("hello")
+    println(1 == 2)
 }
